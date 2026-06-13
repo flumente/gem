@@ -16,10 +16,10 @@
     "example:watch": "nodemon --watch src -e .ts --exec \"pnpm run example\""
   },
   "dependencies": {
-    "@hono/node-server": "^1.13.8",
+    "@hono/node-server": "^1.19.13",
     "@mantou/gem": "^2.2.1",
-    "esbuild": "^0.24.0",
-    "hono": "^4.7.4",
+    "esbuild": "^0.28.1",
+    "hono": "^4.12.21",
     "jsdom": "^26.0.0"
   },
   "devDependencies": {
