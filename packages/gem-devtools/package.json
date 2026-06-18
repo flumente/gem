@@ -19,7 +19,7 @@
   "devDependencies": {
     "@gemjs/config": "^2.1.1",
     "@types/webextension-polyfill": "^0.10.7",
-    "vite": "^5.2.10",
+    "vite": "^6.4.3",
     "web-ext": "^7.8.0"
   },
   "author": "mantou132",
