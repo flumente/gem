@@ -16,7 +16,7 @@
     "example:watch": "nodemon --watch src -e .ts --exec \"pnpm run example\""
   },
   "dependencies": {
-    "@hono/node-server": "^1.13.8",
+    "@hono/node-server": "^2.0.10",
     "@mantou/gem": "^2.2.1",
     "esbuild": "^0.24.0",
     "hono": "^4.7.4",
